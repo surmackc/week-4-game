@@ -1,0 +1,63 @@
+body {
+	background-image: url(../images/stonehaven.png)
+}
+
+.header {
+	background-color: orange;
+	width: 33%;
+	height: auto;
+	margin-left: 10px;
+}
+
+
+.instructions {
+	background-color: yellow;
+	width: 33%;
+	height: auto;
+	margin-left: 10px;
+}
+
+.instructions p {
+	color: green;
+	font-size: 20px;
+}
+
+.gameflow {
+	width: 400px;
+
+}
+
+#score, .scoreboard {
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	margin-left: 10px;
+	float: left;
+	
+}
+
+
+
+.scoreboard {
+	background-color: turquoise;
+
+
+}
+
+.crystals {
+	width: auto;
+	height: auto;
+	margin-left: 10px;
+	clear: both;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	clear: both;
+	margin-top: 10px;
+}
+
+
+
+
