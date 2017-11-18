@@ -36,10 +36,18 @@ body {
 	
 }
 
+#score {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 40px;
+}
+
 
 
 .scoreboard {
 	background-color: turquoise;
+	font-size: 20px;
 
 
 }
@@ -56,6 +64,29 @@ img {
 	height: 150px;
 	clear: both;
 	margin-top: 10px;
+}
+
+
+#player-heading {
+	background-color: blue;
+	width: 33%;
+	height: auto;
+	margin: 10px;
+	color: white;
+	font-size: 20px;
+	
+	}
+
+#players-score {
+	background-color: blue;
+	width: 33%;
+	height: 75px;
+	margin: 10px;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding: 15px;
+
 }
 
 
